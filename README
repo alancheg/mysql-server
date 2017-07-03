@@ -1,3 +1,7 @@
+use mysql as a platform to acheive my storage engine based on r-tree algorithms and more
+
+# -------------------------------------------------------------------------#
+
 MySQL Server 5.7
 
 This is a release of MySQL, a dual-license SQL database server.
